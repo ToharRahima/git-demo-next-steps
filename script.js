@@ -5,6 +5,7 @@ function fooBar() {
 		console.log("count is " + counter);
 		counter += 2;
 		console.log("in the while function")
+		console.log("hello from the main branch")
 	}
 }
 
