@@ -4,7 +4,7 @@ function fooBar() {
 	while (counter < 10) {
 		console.log("count is " + counter);
 		counter += 2;
-		console.log("in the while function")
+		console.log("banana")
 	}
 }
 
